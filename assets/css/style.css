@@ -183,6 +183,11 @@ header a{
     color: #fce138;
     font-size: 32px;
   }
+
+  .hero-secondary {
+    background-color: black;
+    color: red;
+  }
   
   .contact-info p, .contact-info address {
     margin: 20px 0;
