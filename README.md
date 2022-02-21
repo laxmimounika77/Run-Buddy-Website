@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
+https://laxmimounika77.github.io/git-init-sample/
 
 ## Contribution
 Made by Laxmi Mounika Podilacd 
